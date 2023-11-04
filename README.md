@@ -31,7 +31,6 @@ American Airline pilots have been complaining for years about their work-life ba
 * Ashley Sanders
 * India Easton
 
-**
 ### School Name 🏫
 Spelman College
 
