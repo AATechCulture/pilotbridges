@@ -7,27 +7,24 @@ ___________
 # Pilot Bridges
 
 ## Challenge Statement(s) Addressed 🎯
-**The #1 highest complaint voiced by airline pilots surrounds scheduling issues. The work-life balance of pilots is rated very poor, and early retirement for pilots is high. Spelman-Jags seeks to find a solution that will increase employee retention through a long-term scalable solution that boosts overall pilot satisfaction.**
+The #1 highest complaint voiced by airline pilots surrounds scheduling issues. The work-life balance of pilots is rated very poor, and early retirement for pilots is high. Spelman-Jags seeks to find a solution that will increase employee retention through a long-term scalable solution that boosts overall pilot satisfaction.
 
 ## Project Description 🤯
-**Pilot Bridges directly addresses requests from airline pilots at American Airlines. This easy web application is designed to seamlessly work aside American Airline's existing preferential bidding system that schedules pilots. After pilots have been assigned their monthly schedule, they can export their schedule to Pilot Bridges and open flight pairings to be traded. They can filter through pairings that match their requirements and request trades from other pilots using the application. Pilot Bridges also incorporates a notification system and an omnichannel approach so that all necessary features are seamlessly integrated into the application. Pilots will no longer have to to through an informal process that requires days of waiting for higher approval to make trades, and can now have trades instantly approved via the application. **
+Pilot Bridges directly addresses requests from airline pilots at American Airlines. This easy web application is designed to seamlessly work aside American Airline's existing preferential bidding system that schedules pilots. After pilots have been assigned their monthly schedule, they can export their schedule to Pilot Bridges and open flight pairings to be traded. They can filter through pairings that match their requirements and request trades from other pilots using the application. Pilot Bridges also incorporates a notification system and an omnichannel approach so that all necessary features are seamlessly integrated into the application. Pilots will no longer have to to through an informal process that requires days of waiting for higher approval to make trades, and can now have trades instantly approved via the application. 
 
 ## Project Value 💰
-**American Airline pilots have been complaining for years about their work-life balance. While new contracts have been recently negotiated to allow them more flexibility in their scheduling preferences, there has yet to be software built to support those. Now, with Pilot Bridges, airline pilots can experience more independence over their schedule without the airline having to sacrifice any productivity. **
+American Airline pilots have been complaining for years about their work-life balance. While new contracts have been recently negotiated to allow them more flexibility in their scheduling preferences, there has yet to be software built to support those. Now, with Pilot Bridges, airline pilots can experience more independence over their schedule without the airline having to sacrifice any productivity.
 
 
 ## Tech Overview 💻
-**
 * flask
 * bootstrap
 * AirTable API
 * pyairtable
-**
 
 
 
 ### ✨ Contributors ✨
-**...tell the world who you and your team are 🙂**
 * Danae Troupe
 * Amari Grimes
 * Sharon Onyanchn
