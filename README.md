@@ -41,7 +41,7 @@ The Jags
 **coming soon...**
 
 ### Link to Demo Presentation 📽
-**coming soon...**
+https://github.com/AATechCulture/pilotbridges/blob/main/Team%20Presentation%20Deck.pptx
 
 ### Team Checklist due before 5p Saturday 11/4 ✅
 - [✅] Team photo - 
