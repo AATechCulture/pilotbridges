@@ -19,8 +19,12 @@ American Airline pilots voiced complaints for years surrounding their work-life 
 ## Tech Overview 💻
 * flask
 * bootstrap
-* AirTable API
 * pyairtable
+* trycourier 
+* flask-sqlalchemy
+* flask-migrate 
+* flask-marshmallow
+* flask-cors 
 
 
 
